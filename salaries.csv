@@ -1,4 +1,9 @@
 work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
+2020,MI,FT,Cyber Threat Analyst,115000,USD,115000,US,100,US,L
+2021e,MI,FT,Security Analyst,91700,USD,91700,US,0,US,L
+2021e,MI,FT,Security Analyst,82600,USD,82600,US,0,US,L
+2021e,SE,FT,IT Security Manager,146000,USD,146000,US,100,US,L
+2021e,MI,FT,Cyber Security Analyst,135000,USD,135000,US,50,US,L
 2021e,SE,FT,Information Security Manager,185000,USD,185000,US,50,US,L
 2021e,EX,FT,Head of Security,220000,USD,220000,US,50,US,L
 2021e,EN,FT,SOC Analyst,68500,USD,68500,US,50,US,M
