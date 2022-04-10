@@ -1,4 +1,18 @@
 work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
+2022,MI,FT,Cyber Security Engineer,10000,USD,10000,DZ,50,DZ,M
+2022,SE,FT,Application Security Engineer,42000,EUR,47123,RO,100,RO,L
+2022,SE,FT,Principal Security Engineer,215000,USD,215000,US,100,US,L
+2022,MI,FT,Information Security Engineer,260000,USD,260000,US,100,US,L
+2022,MI,FT,Information Security Engineer,45000,USD,45000,RO,100,RO,L
+2022,SE,FT,Security Researcher,300000,BRL,57100,BR,100,AQ,L
+2021,EN,FT,Penetration Tester,50000,USD,50000,US,100,US,L
+2022,SE,FT,Security Consultant,149000,USD,149000,US,100,US,M
+2020,SE,FT,Security Engineer,107000,USD,107000,US,0,US,L
+2022,SE,FT,Security Consultant,140000,USD,140000,US,100,US,M
+2022,SE,FT,Security Engineer,232000,CAD,183060,CA,100,US,L
+2022,SE,FT,Information Security Manager,127000,USD,127000,US,100,US,L
+2022,EN,FT,Application Security Analyst,50000,USD,50000,AF,100,AX,L
+2022,MI,FT,Security Operations Engineer,1400000,INR,18611,IN,100,IN,L
 2022,MI,FT,Information Security Engineer,130000,USD,130000,US,100,US,S
 2022,SE,FT,Information Security Manager,135000,USD,135000,US,0,US,L
 2021,SE,FT,Information Security Manager,135000,USD,135000,US,0,US,L
