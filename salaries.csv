@@ -1,4 +1,15 @@
 work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
+2022,EN,FT,Cyber Security Architect,150000,USD,150000,GH,100,US,M
+2022,SE,FT,Principal Security Engineer,271600,USD,271600,US,100,US,L
+2022,MI,FT,Security Consultant,122500,USD,122500,US,100,US,S
+2022,MI,FT,Cyber Security Architect,129000,USD,129000,US,100,US,L
+2022,SE,FT,Principal Security Engineer,260000,USD,260000,US,100,US,L
+2022,SE,FT,Information Security Manager,145000,USD,145000,US,100,US,L
+2022,SE,FT,Vulnerability Researcher,135000,USD,135000,ES,100,US,S
+2022,EN,FT,Information Security Analyst,70000,BRL,13591,BR,100,BR,L
+2022,MI,FT,Cyber Threat Intelligence Analyst,126000,USD,126000,US,0,US,M
+2022,MI,FT,Computer Forensic Software Engineer,122000,USD,122000,US,50,US,L
+2022,EN,FT,Cyber Security Analyst,45500,EUR,50815,DE,50,DE,S
 2022,MI,FT,Security Operations Engineer,75000,EUR,83762,FR,100,FR,L
 2022,MI,FT,Incident Response Analyst,140000,USD,140000,US,100,US,L
 2022,SE,FT,Cyber Security Architect,150000,USD,150000,US,100,US,L
