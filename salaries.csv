@@ -1,4 +1,13 @@
 work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
+2022,SE,FT,Security Specialist,238200,USD,238200,US,100,US,L
+2022,SE,FT,Security Specialist,176100,USD,176100,US,100,US,L
+2022,SE,FT,Security Engineer,181940,USD,181940,US,100,US,M
+2022,SE,FT,Security Engineer,132000,USD,132000,US,100,US,M
+2022,SE,FT,Security Engineer,186000,USD,186000,US,100,US,M
+2022,SE,FT,Security Engineer,148800,USD,148800,US,100,US,M
+2022,SE,FT,Detection Engineer,252000,USD,252000,US,100,US,M
+2022,SE,FT,Detection Engineer,145000,USD,145000,US,100,US,M
+2022,EX,FT,Chief Information Security Officer,236000,USD,236000,US,100,US,L
 2021,EN,FT,Cyber Security Analyst,12000,SGD,8929,SG,0,SG,M
 2022,SE,FT,Principal Security Engineer,167000,USD,167000,US,100,US,M
 2022,EX,FT,Head of Information Security,175000,USD,175000,US,100,US,M
