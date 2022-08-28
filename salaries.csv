@@ -1,4 +1,28 @@
 work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
+2022,SE,FT,Security Engineer,154700,USD,154700,US,100,US,M
+2022,SE,FT,Security Engineer,131495,USD,131495,US,100,US,M
+2022,MI,FT,Security Engineer,95000,USD,95000,US,0,US,M
+2022,MI,FT,Security Engineer,70000,USD,70000,US,0,US,M
+2022,MI,FT,Security Operations Engineer,95000,GBP,121239,GB,0,GB,M
+2022,MI,FT,Security Operations Engineer,50750,GBP,64767,GB,0,GB,M
+2022,SE,FT,Security Engineer,235000,USD,235000,US,100,US,M
+2022,SE,FT,Security Engineer,205000,USD,205000,US,100,US,M
+2022,SE,FT,Security Engineer,154700,USD,154700,US,100,US,M
+2022,SE,FT,Security Engineer,131495,USD,131495,US,100,US,M
+2022,MI,FT,Security Engineer,96000,GBP,122515,GB,0,GB,M
+2022,MI,FT,Security Engineer,90000,GBP,114858,GB,0,GB,M
+2022,SE,FT,Security Engineer,202400,USD,202400,CA,100,CA,M
+2022,SE,FT,Security Engineer,125800,USD,125800,CA,100,CA,M
+2022,EX,FT,Head of Information Security,125000,USD,125000,IN,100,US,L
+2022,EX,FT,Chief Information Security Officer,160000,USD,160000,US,50,US,S
+2022,SE,FT,Security Engineer,150000,USD,150000,US,100,US,M
+2022,SE,FT,Security Engineer,140000,USD,140000,US,100,US,M
+2022,SE,FT,Security Engineer,125000,USD,125000,US,100,US,M
+2022,SE,FT,Security Engineer,110000,USD,110000,US,100,US,M
+2022,SE,FT,Security Engineer,121800,USD,121800,US,100,US,L
+2022,SE,FT,Security Engineer,81200,USD,81200,US,100,US,L
+2022,MI,FT,Cyber Security Analyst,70000,EUR,75355,FR,100,US,L
+2022,EX,FT,Information Security Manager,125000,USD,125000,US,0,US,L
 2022,MI,FT,Network and Security Engineer,105000,USD,105000,US,100,US,L
 2022,SE,FT,Threat Hunter,207500,USD,207500,US,100,US,M
 2022,SE,FT,Threat Hunter,125000,USD,125000,US,100,US,M
