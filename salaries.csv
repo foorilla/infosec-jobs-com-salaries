@@ -1,7 +1,34 @@
 work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
+2022,SE,FT,Security DevOps Engineer,66000,EUR,69581,ES,100,ES,M
+2022,EN,FT,Penetration Tester,68000,USD,68000,US,50,US,L
+2022,MI,FT,Application Security Engineer,80000,GBP,99254,GB,100,GB,L
+2022,MI,FT,IT Security Manager,80000,USD,80000,PT,100,US,M
+2022,SE,FT,Application Security Architect,117000,EUR,123349,IE,100,IE,L
+2022,MI,FT,Cyber Security Architect,80000,GBP,99254,GB,100,GB,M
+2022,MI,FT,Cyber Security Architect,60000,GBP,74440,GB,100,GB,M
+2022,MI,FT,Penetration Tester,80000,GBP,99254,GB,100,GB,M
+2022,MI,FT,Penetration Tester,60000,GBP,74440,GB,100,GB,M
+2022,EN,FT,Vulnerability Researcher,80000,CAD,61982,CA,100,CA,L
+2022,SE,FT,Director of Information Security,65000,USD,65000,US,0,US,L
+2022,MI,FT,Security Consultant,1250000,INR,16056,IN,0,IN,L
+2022,EX,FT,Chief Information Security Officer,172000,USD,172000,US,100,US,M
+2022,MI,FT,Security Operations Analyst,35000,GBP,43423,GB,100,GB,L
+2022,EN,FT,Cyber Security Consultant,45000,EUR,47442,FR,0,FR,S
+2022,MI,FT,Security Officer,120000,USD,120000,US,0,US,M
+2022,MI,FT,Security Officer,87000,USD,87000,US,0,US,M
+2022,MI,FT,DevSecOps Engineer,152000,USD,152000,US,0,US,M
+2022,MI,FT,DevSecOps Engineer,91000,USD,91000,US,0,US,M
+2022,MI,FT,Cyber Security Consultant,90000,USD,90000,US,100,US,S
+2022,EN,FT,Security Consultant,30000,GBP,37220,GB,100,GB,L
+2022,SE,FT,Security Engineer,125000,USD,125000,US,0,US,M
+2022,SE,FT,Security Engineer,122000,USD,122000,US,0,US,M
+2022,SE,FT,Threat Intelligence Analyst,205000,USD,205000,US,100,US,M
+2022,SE,FT,Threat Intelligence Analyst,139400,USD,139400,US,100,US,M
+2022,MI,FT,Security Engineer,147800,USD,147800,US,0,US,M
+2022,MI,FT,Security Engineer,90400,USD,90400,US,0,US,M
 2022,SE,FT,Penetration Tester,114800,USD,114800,US,100,US,M
 2022,SE,FT,Penetration Tester,88600,USD,88600,US,100,US,M
-2022,EN,FT,Cyber Security Analyst,31000,GBP,38687,GB,100,GB,L
+2022,EN,FT,Cyber Security Analyst,31000,GBP,38460,GB,100,GB,L
 2022,EX,FT,Security Officer,148000,USD,148000,US,0,US,M
 2022,EX,FT,Security Officer,100000,USD,100000,US,0,US,M
 2022,SE,FT,Security Analyst,250000,USD,250000,US,100,US,M
@@ -17,7 +44,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,MI,FT,Security Consultant,185000,USD,185000,US,100,US,L
 2022,MI,FT,Security Consultant,98200,USD,98200,US,100,US,L
 2021,SE,FT,Corporate Security Engineer,150000,USD,150000,US,100,US,L
-2022,EN,FT,Penetration Tester,40000,EUR,42355,FR,50,FR,L
+2022,EN,FT,Penetration Tester,40000,EUR,42170,FR,50,FR,L
 2022,SE,FT,Security Engineer,163000,USD,163000,US,100,US,M
 2022,SE,FT,Security Engineer,122000,USD,122000,US,100,US,M
 2022,MI,FT,Security Engineer,128000,USD,128000,US,100,US,M
@@ -27,16 +54,16 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Security Engineer,160000,USD,160000,US,100,US,M
 2022,SE,FT,Security Engineer,140000,USD,140000,US,100,US,M
 2022,SE,FT,Security Analyst,145000,USD,145000,US,100,US,L
-2022,MI,FT,Information Security Manager,65000,GBP,81119,GB,100,GB,M
-2022,MI,FT,Information Security Manager,50000,GBP,62399,GB,100,GB,M
-2022,MI,FT,Penetration Tester,70000,EUR,74122,GR,0,GR,M
-2022,MI,FT,Penetration Tester,50000,EUR,52944,GR,0,GR,M
-2022,MI,FT,Security Engineer,50000,GBP,62399,GB,100,GB,M
-2022,MI,FT,Security Engineer,45000,GBP,56159,GB,100,GB,M
+2022,MI,FT,Information Security Manager,65000,GBP,80643,GB,100,GB,M
+2022,MI,FT,Information Security Manager,50000,GBP,62033,GB,100,GB,M
+2022,MI,FT,Penetration Tester,70000,EUR,73798,GR,0,GR,M
+2022,MI,FT,Penetration Tester,50000,EUR,52713,GR,0,GR,M
+2022,MI,FT,Security Engineer,50000,GBP,62033,GB,100,GB,M
+2022,MI,FT,Security Engineer,45000,GBP,55830,GB,100,GB,M
 2022,EN,FT,Application Security Engineer,123000,USD,123000,US,50,US,L
 2022,EN,FT,Cyber Security Training Specialist,100000,USD,100000,US,100,US,S
 2022,SE,FT,Information System Security Engineer,110000,USD,110000,US,100,US,L
-2022,EX,FT,Director of Information Security,1140000,SEK,114502,SE,100,SE,L
+2022,EX,FT,Director of Information Security,1140000,SEK,113723,SE,100,SE,L
 2022,SE,FT,Security Engineer,220100,USD,220100,US,100,US,M
 2022,SE,FT,Security Engineer,176080,USD,176080,US,100,US,M
 2022,SE,FT,Security Engineer,243225,USD,243225,US,100,US,M
@@ -66,10 +93,10 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,MI,FT,Information Security Specialist,120000,USD,120000,US,100,US,L
 2022,MI,FT,Privacy Manager,180000,USD,180000,US,0,US,M
 2022,MI,FT,Privacy Manager,120000,USD,120000,US,0,US,M
-2022,MI,FT,Security Engineer,2500000,INR,32220,IN,0,IN,L
+2022,MI,FT,Security Engineer,2500000,INR,32113,IN,0,IN,L
 2022,SE,FT,Detection Engineer,240000,USD,240000,US,100,US,M
 2022,SE,FT,Detection Engineer,200000,USD,200000,US,100,US,M
-2022,MI,FT,Cyber Security Analyst,80000,CAD,62213,CA,100,CA,L
+2022,MI,FT,Cyber Security Analyst,80000,CAD,61982,CA,100,CA,L
 2021,MI,FT,Cyber Security Consultant,200000,CAD,159525,CA,100,US,M
 2022,MI,FT,Privacy Manager,101000,USD,101000,US,100,US,M
 2022,MI,FT,Privacy Manager,97213,USD,97213,US,100,US,M
@@ -80,12 +107,12 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,MI,FT,Security Officer,87000,USD,87000,US,0,US,M
 2022,SE,FT,Security Engineer,200000,USD,200000,US,100,US,M
 2022,SE,FT,Security Engineer,180000,USD,180000,US,100,US,M
-2022,EN,FT,Information Security Officer,68000,EUR,72004,DE,100,DE,S
+2022,EN,FT,Information Security Officer,68000,EUR,71690,DE,100,DE,S
 2022,SE,FT,Security Officer,123400,USD,123400,US,0,US,M
 2022,SE,FT,Security Officer,88100,USD,88100,US,0,US,M
 2022,SE,FT,Security Engineer,163575,USD,163575,US,100,US,M
 2022,SE,FT,Security Engineer,115800,USD,115800,US,100,US,M
-2022,MI,FT,Penetration Testing Engineer,40000,EUR,42355,CY,100,CY,L
+2022,MI,FT,Penetration Testing Engineer,40000,EUR,42170,CY,100,CY,L
 2022,SE,FT,Security Analyst,136600,USD,136600,US,100,US,M
 2022,SE,FT,Security Analyst,109280,USD,109280,US,100,US,M
 2022,SE,FT,Security Engineer,211600,USD,211600,US,100,US,M
@@ -100,7 +127,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Security Analyst,81600,USD,81600,US,100,US,M
 2022,SE,FT,Security Engineer,210000,USD,210000,US,0,US,M
 2022,SE,FT,Security Engineer,140000,USD,140000,US,0,US,M
-2022,MI,FT,Network Security Engineer,11220,EUR,11880,BA,0,BA,S
+2022,MI,FT,Network Security Engineer,11220,EUR,11828,BA,0,BA,S
 2022,SE,FT,Penetration Tester,160000,USD,160000,US,100,US,M
 2022,SE,FT,Penetration Tester,125000,USD,125000,US,100,US,M
 2022,MI,FT,DevSecOps Engineer,119910,USD,119910,US,0,US,M
@@ -123,14 +150,14 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Security Engineer,131495,USD,131495,US,100,US,M
 2022,MI,FT,Security Engineer,95000,USD,95000,US,0,US,M
 2022,MI,FT,Security Engineer,70000,USD,70000,US,0,US,M
-2022,MI,FT,Security Operations Engineer,95000,GBP,118559,GB,0,GB,M
-2022,MI,FT,Security Operations Engineer,50750,GBP,63335,GB,0,GB,M
+2022,MI,FT,Security Operations Engineer,95000,GBP,117864,GB,0,GB,M
+2022,MI,FT,Security Operations Engineer,50750,GBP,62964,GB,0,GB,M
 2022,SE,FT,Security Engineer,235000,USD,235000,US,100,US,M
 2022,SE,FT,Security Engineer,205000,USD,205000,US,100,US,M
 2022,SE,FT,Security Engineer,154700,USD,154700,US,100,US,M
 2022,SE,FT,Security Engineer,131495,USD,131495,US,100,US,M
-2022,MI,FT,Security Engineer,96000,GBP,119807,GB,0,GB,M
-2022,MI,FT,Security Engineer,90000,GBP,112319,GB,0,GB,M
+2022,MI,FT,Security Engineer,96000,GBP,119104,GB,0,GB,M
+2022,MI,FT,Security Engineer,90000,GBP,111660,GB,0,GB,M
 2022,SE,FT,Security Engineer,202400,USD,202400,CA,100,CA,M
 2022,SE,FT,Security Engineer,125800,USD,125800,CA,100,CA,M
 2022,EX,FT,Head of Information Security,125000,USD,125000,IN,100,US,L
@@ -141,7 +168,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Security Engineer,110000,USD,110000,US,100,US,M
 2022,SE,FT,Security Engineer,121800,USD,121800,US,100,US,L
 2022,SE,FT,Security Engineer,81200,USD,81200,US,100,US,L
-2022,MI,FT,Cyber Security Analyst,70000,EUR,74122,FR,100,US,L
+2022,MI,FT,Cyber Security Analyst,70000,EUR,73798,FR,100,US,L
 2022,EX,FT,Information Security Manager,125000,USD,125000,US,0,US,L
 2022,MI,FT,Network and Security Engineer,105000,USD,105000,US,100,US,L
 2022,SE,FT,Threat Hunter,207500,USD,207500,US,100,US,M
@@ -150,7 +177,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Security Engineer,181940,USD,181940,US,100,US,M
 2022,SE,FT,Security Engineer,132000,USD,132000,US,100,US,M
 2022,MI,FT,Digital Forensics Analyst,106000,USD,106000,US,50,US,M
-2022,MI,FT,Penetration Tester,27000,EUR,28590,ES,100,ES,L
+2022,MI,FT,Penetration Tester,27000,EUR,28465,ES,100,ES,L
 2022,EN,PT,Information Security Compliance Analyst,46800,USD,46800,US,100,US,L
 2022,SE,FT,Cyber Threat Analyst,137000,USD,137000,US,100,US,L
 2022,SE,FT,Cyber Threat Analyst,137000,USD,137000,US,100,US,L
@@ -171,7 +198,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Security Engineer,103600,USD,103600,US,100,US,L
 2022,SE,FT,Security Engineer,227200,USD,227200,CA,100,CA,M
 2022,SE,FT,Security Engineer,149600,USD,149600,CA,100,CA,M
-2022,MI,FT,IT Security Engineer,27000,EUR,28590,ES,100,ES,L
+2022,MI,FT,IT Security Engineer,27000,EUR,28465,ES,100,ES,L
 2022,SE,FT,Security Engineer,157250,USD,157250,US,100,US,M
 2022,SE,FT,Security Engineer,133663,USD,133663,US,100,US,M
 2022,SE,FT,Security Engineer,170200,USD,170200,CA,100,CA,M
@@ -185,7 +212,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,EN,FT,Cyber Program Manager,63000,USD,63000,US,50,US,S
 2022,MI,FT,Security Analyst,95000,USD,95000,US,0,US,M
 2022,MI,FT,Security Analyst,70000,USD,70000,US,0,US,M
-2022,MI,FT,IT Security Analyst,250000,BRL,48660,BR,50,BR,L
+2022,MI,FT,IT Security Analyst,250000,BRL,48599,BR,50,BR,L
 2022,EN,CT,Cyber Security Analyst,120000,USD,120000,BW,100,BW,S
 2022,EX,FT,Application Security Architect,315000,USD,315000,US,100,US,L
 2022,SE,FT,Security Researcher,220000,USD,220000,US,100,US,M
@@ -201,17 +228,17 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,EX,FT,Head of Information Security,244000,USD,244000,US,100,US,L
 2022,EN,FT,Security Incident Response Engineer,112000,USD,112000,US,100,US,L
 2022,EN,FT,Cyber Security Analyst,72000,USD,72000,US,100,US,L
-2022,SE,FT,Ethical Hacker,60000,EUR,63533,NL,50,NL,M
+2022,SE,FT,Ethical Hacker,60000,EUR,63256,NL,50,NL,M
 2020,EN,FT,Cyber Security Analyst,450000,INR,6072,IN,50,IN,L
 2021,MI,FT,Cyber Security Consultant,45000,EUR,53192,NL,100,NL,L
-2022,EX,FT,Chief Information Security Officer,109000,EUR,115419,DE,100,DE,M
+2022,EX,FT,Chief Information Security Officer,109000,EUR,114915,DE,100,DE,M
 2022,MI,FT,DevSecOps Engineer,152000,USD,152000,US,0,US,M
 2022,MI,FT,DevSecOps Engineer,91000,USD,91000,US,0,US,M
-2022,SE,FT,IT Security Manager,120000,EUR,127066,DE,50,DE,L
+2022,SE,FT,IT Security Manager,120000,EUR,126512,DE,50,DE,L
 2022,MI,FT,Application Security Engineer,207000,USD,207000,US,100,US,L
 2022,EX,FT,Chief Information Security Officer,300000,USD,300000,AE,50,AE,L
 2022,MI,FT,Vulnerability Analyst,115000,USD,115000,US,100,US,L
-2022,SE,FT,Cyber Security Engineer,126700,CAD,98530,CA,100,CA,L
+2022,SE,FT,Cyber Security Engineer,126700,CAD,98164,CA,100,CA,L
 2022,EN,FT,Information Security Analyst,52000,USD,52000,US,100,US,L
 2022,SE,FT,Principal Application Security Engineer,237000,USD,237000,US,100,US,L
 2021,EN,FT,Cyber Security Architect,150000,USD,150000,US,50,US,M
@@ -221,7 +248,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,DevSecOps Engineer,165000,USD,165000,US,100,US,L
 2022,SE,FT,Penetration Tester,190000,USD,190000,US,100,US,L
 2022,SE,FT,Cyber Threat Intelligence Analyst,135000,USD,135000,US,100,US,L
-2022,MI,FT,Cloud Security Engineer,150000,CAD,116650,CA,100,CA,L
+2022,MI,FT,Cloud Security Engineer,150000,CAD,116216,CA,100,CA,L
 2022,MI,FT,Information Security Officer,97900,USD,97900,US,50,US,L
 2022,SE,FT,IT Security Analyst,90000,USD,90000,US,100,US,S
 2021,SE,FT,Security Consultant,175000,USD,175000,US,100,US,L
@@ -232,20 +259,20 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,EX,FT,Information Security Manager,102000,USD,102000,US,50,US,L
 2022,SE,FT,Penetration Tester,108000,USD,108000,US,100,US,L
 2022,SE,FT,Cyber Security Consultant,200000,USD,200000,US,100,US,M
-2022,EN,FT,SOC Analyst,85000,CHF,89177,CH,50,CH,L
+2022,EN,FT,SOC Analyst,85000,CHF,88943,CH,50,CH,L
 2022,EN,FT,Cyber Security Analyst,50000,USD,50000,US,0,US,S
 2022,SE,FT,DevSecOps Engineer,157000,USD,157000,US,0,US,M
 2022,SE,FT,DevSecOps Engineer,108000,USD,108000,US,0,US,M
 2022,EX,FT,Director of Information Security,148000,USD,148000,US,0,US,L
 2022,MI,FT,Security Engineer,130000,USD,130000,US,0,US,M
 2022,MI,FT,Security Engineer,120000,USD,120000,US,0,US,M
-2022,MI,FT,Information Security Compliance Lead,450000,DKK,64047,DK,50,DK,L
+2022,MI,FT,Information Security Compliance Lead,450000,DKK,63768,DK,50,DK,L
 2022,SE,FT,Threat Hunter,150000,USD,150000,US,100,CH,L
-2022,EN,FT,Cloud Security Engineer,500000,INR,6444,IN,100,IN,L
+2022,EN,FT,Cloud Security Engineer,500000,INR,6422,IN,100,IN,L
 2022,SE,FT,Threat Intelligence Analyst,184800,USD,184800,US,100,US,M
 2022,SE,FT,Threat Intelligence Analyst,130800,USD,130800,US,100,US,M
-2022,MI,FT,DevSecOps Engineer,80000,GBP,99839,GB,100,GB,M
-2022,MI,FT,DevSecOps Engineer,60000,GBP,74879,GB,100,GB,M
+2022,MI,FT,DevSecOps Engineer,80000,GBP,99254,GB,100,GB,M
+2022,MI,FT,DevSecOps Engineer,60000,GBP,74440,GB,100,GB,M
 2022,MI,FT,Security Analyst,114000,USD,114000,US,0,US,L
 2022,SE,FT,Security Engineer,207000,USD,207000,US,100,US,M
 2022,SE,FT,Security Engineer,153000,USD,153000,US,100,US,M
@@ -257,10 +284,10 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Security Engineer,124300,USD,124300,US,100,US,L
 2022,SE,FT,IT Security Engineer,145000,USD,145000,US,100,US,L
 2022,EX,FT,Cloud Security Engineering Manager,50000,USD,50000,CL,100,CL,M
-2022,EN,FT,Application Security Analyst,50000,EUR,52944,CH,50,CH,M
+2022,EN,FT,Application Security Analyst,50000,EUR,52713,CH,50,CH,M
 2022,EN,FT,Data Security Analyst,50000,USD,50000,US,100,US,L
 2022,EN,FT,Data Security Analyst,50000,USD,50000,US,100,US,L
-2022,MI,FT,Detection Engineer,40000,EUR,42355,ES,50,ES,L
+2022,MI,FT,Detection Engineer,40000,EUR,42170,ES,50,ES,L
 2022,SE,FT,Security Specialist,238200,USD,238200,US,100,US,L
 2022,SE,FT,Security Specialist,176100,USD,176100,US,100,US,L
 2022,SE,FT,Security Engineer,181940,USD,181940,US,100,US,M
@@ -273,9 +300,9 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2021,EN,FT,Cyber Security Analyst,12000,SGD,8929,SG,0,SG,M
 2022,SE,FT,Principal Security Engineer,167000,USD,167000,US,100,US,M
 2022,EX,FT,Head of Information Security,175000,USD,175000,US,100,US,M
-2022,EN,FT,IT Security Analyst,70000,AUD,49289,AU,50,AU,L
+2022,EN,FT,IT Security Analyst,70000,AUD,48979,AU,50,AU,L
 2022,MI,FT,Information Systems Security Engineer,86500,USD,86500,US,50,US,L
-2022,MI,FT,Staff Application Security Engineer,120000,EUR,127066,FR,50,FR,L
+2022,MI,FT,Staff Application Security Engineer,120000,EUR,126512,FR,50,FR,L
 2022,SE,FT,Security Engineer,200100,USD,200100,US,100,US,M
 2022,SE,FT,Security Engineer,160080,USD,160080,US,100,US,M
 2022,SE,FT,Security Engineer,165400,USD,165400,US,100,US,M
@@ -294,9 +321,9 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,EN,FT,Security Analyst,140000,USD,140000,US,100,US,L
 2022,SE,FT,Information Security Officer,267840,USD,267840,US,100,US,M
 2022,SE,FT,Information Security Officer,214056,USD,214056,US,100,US,M
-2022,SE,FT,Security Researcher,240000,CAD,186641,CA,100,US,L
-2022,MI,FT,Head of Information Security,107000,GBP,133535,GB,100,GB,M
-2022,MI,FT,Head of Information Security,92000,GBP,114815,GB,100,GB,M
+2022,SE,FT,Security Researcher,240000,CAD,185947,CA,100,US,L
+2022,MI,FT,Head of Information Security,107000,GBP,132752,GB,100,GB,M
+2022,MI,FT,Head of Information Security,92000,GBP,114142,GB,100,GB,M
 2022,EN,CT,Cyber Security Analyst,80000,USD,80000,US,100,US,L
 2022,EN,CT,Cyber Security Analyst,60000,USD,60000,US,100,US,L
 2022,EN,FT,Cyber Security Analyst,60000,USD,60000,US,100,US,L
@@ -304,8 +331,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,EN,FT,Azure Security Engineer,60000,USD,60000,US,100,US,S
 2021,EN,FT,Cyber Security Analyst,115000,USD,115000,US,100,US,M
 2021,EN,FT,Security Consultant,750000,INR,10142,IN,50,IN,L
-2022,MI,FT,Security Operations Analyst,80000,GBP,99839,GB,100,GB,M
-2022,MI,FT,Security Operations Analyst,55000,GBP,68639,GB,100,GB,M
+2022,MI,FT,Security Operations Analyst,80000,GBP,99254,GB,100,GB,M
+2022,MI,FT,Security Operations Analyst,55000,GBP,68237,GB,100,GB,M
 2022,MI,FT,Security Engineer,170000,USD,170000,AU,0,AU,M
 2022,MI,FT,Security Engineer,140000,USD,140000,AU,0,AU,M
 2022,SE,FT,Cyber Security Engineer,175000,USD,175000,US,0,US,S
@@ -327,7 +354,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Security Engineer,190000,USD,190000,US,0,US,M
 2022,SE,FT,Security Engineer,226400,USD,226400,US,100,US,L
 2022,SE,FT,Security Engineer,124300,USD,124300,US,100,US,L
-2022,EN,FT,Security Analyst,63000,CAD,48993,CA,100,CA,S
+2022,EN,FT,Security Analyst,63000,CAD,48811,CA,100,CA,S
 2022,EN,FT,SOC Analyst,91600,USD,91600,US,100,US,L
 2022,MI,FT,Cloud Security Engineer,165000,USD,165000,US,50,US,L
 2022,SE,FT,Security Specialist,160000,USD,160000,US,100,US,L
@@ -337,7 +364,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Security Engineer,139000,USD,139000,US,100,US,M
 2022,EX,FT,Security Officer,160000,USD,160000,US,100,US,M
 2022,EX,FT,Security Officer,120000,USD,120000,US,100,US,M
-2022,MI,FT,Penetration Tester,50000,GBP,62399,GB,50,GB,M
+2022,MI,FT,Penetration Tester,50000,GBP,62033,GB,50,GB,M
 2022,SE,FT,Security Engineer,82900,USD,82900,US,100,US,M
 2022,SE,FT,Security Engineer,63900,USD,63900,US,100,US,M
 2022,EN,FT,SOC Analyst,75000,USD,75000,US,100,US,L
@@ -359,7 +386,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Security Engineer,140000,USD,140000,US,0,US,M
 2022,SE,FT,Security Engineer,175000,USD,175000,US,100,US,M
 2022,SE,FT,Security Engineer,130000,USD,130000,US,100,US,M
-2022,EN,PT,Security Consultant,20000,EUR,21177,DE,100,DE,M
+2022,EN,PT,Security Consultant,20000,EUR,21085,DE,100,DE,M
 2022,SE,FT,Application Security Engineer,60000,USD,60000,PK,100,US,M
 2022,EN,PT,Penetration Tester,80000,USD,80000,IN,100,US,L
 2022,MI,FT,Detection Engineer,200100,USD,200100,US,100,US,M
@@ -376,14 +403,14 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,MI,FT,Security Analyst,82080,USD,82080,US,100,US,M
 2022,MI,FT,Security Engineer,160000,USD,160000,US,0,US,M
 2022,MI,FT,Security Engineer,110000,USD,110000,US,0,US,M
-2022,MI,FT,Security Engineer,140000,EUR,148244,FR,100,FR,M
-2022,MI,FT,Security Engineer,100000,EUR,105889,FR,100,FR,M
-2022,MI,FT,IT Security Manager,120000,EUR,127066,FR,100,FR,M
-2022,MI,FT,IT Security Manager,80000,EUR,84711,FR,100,FR,M
-2022,MI,FT,Security Engineer,180000,EUR,190600,US,100,US,M
-2022,MI,FT,Security Engineer,140000,EUR,148244,US,100,US,M
-2022,EX,FT,Information Security Officer,240000,EUR,254133,US,100,US,M
-2022,EX,FT,Information Security Officer,180000,EUR,190600,US,100,US,M
+2022,MI,FT,Security Engineer,140000,EUR,147597,FR,100,FR,M
+2022,MI,FT,Security Engineer,100000,EUR,105427,FR,100,FR,M
+2022,MI,FT,IT Security Manager,120000,EUR,126512,FR,100,FR,M
+2022,MI,FT,IT Security Manager,80000,EUR,84341,FR,100,FR,M
+2022,MI,FT,Security Engineer,180000,EUR,189768,US,100,US,M
+2022,MI,FT,Security Engineer,140000,EUR,147597,US,100,US,M
+2022,EX,FT,Information Security Officer,240000,EUR,253024,US,100,US,M
+2022,EX,FT,Information Security Officer,180000,EUR,189768,US,100,US,M
 2022,MI,FT,DevSecOps Engineer,152000,USD,152000,US,0,US,M
 2022,MI,FT,DevSecOps Engineer,91000,USD,91000,US,0,US,M
 2022,MI,FT,Detection Engineer,200100,USD,200100,US,100,US,M
@@ -426,8 +453,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,MI,FT,Security DevOps Engineer,63500,USD,63500,US,0,US,L
 2022,SE,FT,Information Security Manager,180000,USD,180000,US,0,US,M
 2022,SE,FT,Information Security Manager,90000,USD,90000,US,0,US,M
-2022,EN,FT,Penetration Tester,40000,EUR,42355,GR,0,GR,M
-2022,EN,FT,Penetration Tester,25000,EUR,26472,GR,0,GR,M
+2022,EN,FT,Penetration Tester,40000,EUR,42170,GR,0,GR,M
+2022,EN,FT,Penetration Tester,25000,EUR,26356,GR,0,GR,M
 2022,SE,FT,Security Engineer,165400,USD,165400,US,100,US,M
 2022,SE,FT,Security Engineer,132320,USD,132320,US,100,US,M
 2022,SE,FT,Security Engineer,184800,USD,184800,US,100,US,M
@@ -446,8 +473,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,DevSecOps Engineer,108000,USD,108000,US,0,US,M
 2022,SE,FT,Security Consultant,175000,USD,175000,US,100,US,M
 2022,SE,FT,Security Consultant,90000,USD,90000,US,100,US,M
-2022,MI,FT,Security Consultant,80000,GBP,99839,GB,100,GB,M
-2022,MI,FT,Security Consultant,65000,GBP,81119,GB,100,GB,M
+2022,MI,FT,Security Consultant,80000,GBP,99254,GB,100,GB,M
+2022,MI,FT,Security Consultant,65000,GBP,80643,GB,100,GB,M
 2022,SE,FT,Security Engineer,220000,USD,220000,US,100,US,M
 2022,SE,FT,Security Engineer,165400,USD,165400,US,100,US,M
 2022,SE,FT,Security Engineer,184800,USD,184800,US,100,US,M
@@ -500,8 +527,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Security Engineer,160080,USD,160080,US,100,US,M
 2022,SE,FT,Security Engineer,220100,USD,220100,US,100,US,M
 2022,SE,FT,Security Engineer,176080,USD,176080,US,100,US,M
-2022,SE,FT,Security Engineer,140000,GBP,174719,GB,0,GB,M
-2022,SE,FT,Security Engineer,120000,GBP,149759,GB,0,GB,M
+2022,SE,FT,Security Engineer,140000,GBP,173694,GB,0,GB,M
+2022,SE,FT,Security Engineer,120000,GBP,148881,GB,0,GB,M
 2022,MI,FT,Security Analyst,65000,USD,65000,US,100,US,M
 2022,MI,FT,Security Analyst,55000,USD,55000,US,100,US,M
 2022,SE,FT,Security Engineer,230000,USD,230000,US,0,US,M
@@ -536,8 +563,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Security Engineer,160080,USD,160080,US,100,US,M
 2022,MI,FT,Cyber Security Analyst,111000,USD,111000,CH,50,CH,L
 2022,MI,FT,Security Engineer,200000,USD,200000,US,100,US,L
-2022,SE,FT,Information Security Manager,1600000,INR,20621,IN,0,BR,L
-2022,EN,FT,Security Consultant,75000,CAD,58325,CA,100,CA,L
+2022,SE,FT,Information Security Manager,1600000,INR,20552,IN,0,BR,L
+2022,EN,FT,Security Consultant,75000,CAD,58108,CA,100,CA,L
 2022,EX,FT,Director of Information Security,220000,USD,220000,US,100,US,M
 2022,EN,FT,Cyber Security Architect,150000,USD,150000,GH,100,US,M
 2022,SE,FT,Principal Security Engineer,271600,USD,271600,US,100,US,L
@@ -546,11 +573,11 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Principal Security Engineer,260000,USD,260000,US,100,US,L
 2022,SE,FT,Information Security Manager,145000,USD,145000,US,100,US,L
 2022,SE,FT,Vulnerability Researcher,135000,USD,135000,ES,100,US,S
-2022,EN,FT,Information Security Analyst,70000,BRL,13624,BR,100,BR,L
+2022,EN,FT,Information Security Analyst,70000,BRL,13607,BR,100,BR,L
 2022,MI,FT,Cyber Threat Intelligence Analyst,126000,USD,126000,US,0,US,M
 2022,MI,FT,Computer Forensic Software Engineer,122000,USD,122000,US,50,US,L
-2022,EN,FT,Cyber Security Analyst,45500,EUR,48179,DE,50,DE,S
-2022,MI,FT,Security Operations Engineer,75000,EUR,79416,FR,100,FR,L
+2022,EN,FT,Cyber Security Analyst,45500,EUR,47969,DE,50,DE,S
+2022,MI,FT,Security Operations Engineer,75000,EUR,79070,FR,100,FR,L
 2022,MI,FT,Incident Response Analyst,140000,USD,140000,US,100,US,L
 2022,SE,FT,Cyber Security Architect,150000,USD,150000,US,100,US,L
 2021,SE,FT,Security Researcher,172500,USD,172500,US,100,US,L
@@ -562,7 +589,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,IT Security Analyst,104000,USD,104000,US,100,US,M
 2022,SE,FT,Security Researcher,192500,USD,192500,US,100,US,S
 2022,EN,FT,Penetration Tester,5800,USD,5800,AZ,0,AZ,L
-2022,MI,FT,Penetration Tester,35620,EUR,37717,RO,0,RO,S
+2022,MI,FT,Penetration Tester,35620,EUR,37553,RO,0,RO,S
 2021,SE,FT,Security Engineer,190000,USD,190000,US,0,US,L
 2022,MI,FT,Cyber Security Engineer,100000,USD,100000,US,100,US,L
 2022,EN,FT,Penetration Tester,10000,USD,10000,AR,100,ES,S
@@ -570,19 +597,19 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Cyber Security Analyst,125000,USD,125000,US,100,US,L
 2021,SE,FT,Cyber Threat Intelligence Analyst,120000,USD,120000,US,100,US,L
 2022,MI,FT,Cyber Security Engineer,10000,USD,10000,DZ,50,DZ,M
-2022,SE,FT,Application Security Engineer,42000,EUR,44473,RO,100,RO,L
+2022,SE,FT,Application Security Engineer,42000,EUR,44279,RO,100,RO,L
 2022,SE,FT,Principal Security Engineer,215000,USD,215000,US,100,US,L
 2022,MI,FT,Information Security Engineer,260000,USD,260000,US,100,US,L
 2022,MI,FT,Information Security Engineer,45000,USD,45000,RO,100,RO,L
-2022,SE,FT,Security Researcher,300000,BRL,58392,BR,100,AQ,L
+2022,SE,FT,Security Researcher,300000,BRL,58319,BR,100,AQ,L
 2021,EN,FT,Penetration Tester,50000,USD,50000,US,100,US,L
 2022,SE,FT,Security Consultant,149000,USD,149000,US,100,US,M
 2020,SE,FT,Security Engineer,107000,USD,107000,US,0,US,L
 2022,SE,FT,Security Consultant,140000,USD,140000,US,100,US,M
-2022,SE,FT,Security Engineer,232000,CAD,180419,CA,100,US,L
+2022,SE,FT,Security Engineer,232000,CAD,179748,CA,100,US,L
 2022,SE,FT,Information Security Manager,127000,USD,127000,US,100,US,L
 2022,EN,FT,Application Security Analyst,50000,USD,50000,AF,100,AX,L
-2022,MI,FT,Security Operations Engineer,1400000,INR,18043,IN,100,IN,L
+2022,MI,FT,Security Operations Engineer,1400000,INR,17983,IN,100,IN,L
 2022,MI,FT,Information Security Engineer,130000,USD,130000,US,100,US,S
 2022,SE,FT,Information Security Manager,135000,USD,135000,US,0,US,L
 2021,SE,FT,Information Security Manager,135000,USD,135000,US,0,US,L
@@ -600,7 +627,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,EN,FT,DevOps Security Engineer,70000,USD,70000,US,100,US,L
 2021,EN,FT,Application Security Engineer,200000,USD,200000,US,100,US,L
 2022,MI,FT,Cyber Security Engineer,410000,USD,410000,IN,100,IN,L
-2022,MI,FT,Lead Security Engineer,60000,GBP,74879,GB,100,GB,L
+2022,MI,FT,Lead Security Engineer,60000,GBP,74440,GB,100,GB,L
 2022,MI,FT,Information Security Analyst,90000,USD,90000,US,100,US,L
 2022,EX,FT,Incident Response Manager,201000,USD,201000,US,100,US,L
 2022,SE,FT,Security Engineer,196000,USD,196000,US,100,US,L
@@ -614,15 +641,15 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Vulnerability Management Engineer,130000,USD,130000,US,0,US,L
 2022,MI,FT,Incident Response Analyst,127000,USD,127000,US,100,US,L
 2022,MI,FT,Cloud Security Engineer,108856,USD,108856,US,0,US,L
-2022,MI,FT,Cyber Security Specialist,90000,EUR,95300,DE,50,DE,L
+2022,MI,FT,Cyber Security Specialist,90000,EUR,94884,DE,50,DE,L
 2021,SE,FT,Cyber Security Researcher,315000,BRL,58390,BR,100,BR,L
-2022,EX,FT,Chief Information Security Officer,48000,EUR,50826,SI,0,SI,M
+2022,EX,FT,Chief Information Security Officer,48000,EUR,50604,SI,0,SI,M
 2022,MI,FT,Incident Response Analyst,87000,USD,87000,US,50,US,L
 2021,EN,FT,Security Operations Analyst,45000,EUR,53192,DE,100,DE,S
 2022,EN,FT,Penetration Tester,2000,USD,2000,RO,50,RO,M
 2022,SE,FT,IT Security Engineer,130000,USD,130000,US,50,US,L
 2021,SE,FT,Lead Security Engineer,85000,EUR,100474,ES,100,ES,L
-2022,SE,FT,Security Researcher,92000,EUR,97417,FR,100,US,L
+2022,SE,FT,Security Researcher,92000,EUR,96992,FR,100,US,L
 2022,MI,FT,DevSecOps Engineer,150000,USD,150000,US,100,US,L
 2021,SE,FT,Penetration Testing Engineer,160000,USD,160000,US,100,US,L
 2021,SE,FT,Cyber Security Engineer,150000,USD,150000,US,50,US,L
@@ -630,16 +657,16 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2021,MI,FT,Information Security Analyst,55000,USD,55000,US,50,US,L
 2022,SE,FT,Information Security Manager,260000,USD,260000,US,100,US,L
 2021,EX,FT,Cyber Security Architect,50000,USD,50000,HR,50,HR,L
-2022,MI,FT,Information Security Manager,115000,CAD,89432,CA,100,CA,L
+2022,MI,FT,Information Security Manager,115000,CAD,89099,CA,100,CA,L
 2021,SE,FT,Information Security Manager,145000,USD,145000,US,0,US,L
 2021,SE,FT,Information Security Manager,135000,USD,135000,US,0,US,L
 2021,MI,FT,Information Security Analyst,88000,USD,88000,US,0,US,L
 2021,MI,FT,Information Security Analyst,84000,USD,84000,US,0,US,L
 2021,SE,FT,Cloud Security Engineer,120000,USD,120000,US,100,US,M
 2022,SE,FT,Security Engineer,146000,USD,146000,US,100,US,L
-2022,EN,FT,Digital Forensics Analyst,108000,CAD,83988,CA,50,CA,L
-2022,EN,FT,Application Security Analyst,71500,CAD,55603,CA,0,CA,L
-2022,EX,FT,Chief Information Security Officer,12000,GBP,14975,GB,100,GB,M
+2022,EN,FT,Digital Forensics Analyst,108000,CAD,83676,CA,50,CA,L
+2022,EN,FT,Application Security Analyst,71500,CAD,55396,CA,0,CA,L
+2022,EX,FT,Chief Information Security Officer,12000,GBP,14888,GB,100,GB,M
 2022,EN,FT,Cyber Threat Analyst,60000,USD,60000,US,100,US,M
 2022,SE,FT,Vulnerability Management Engineer,175000,USD,175000,US,100,US,L
 2022,SE,FT,Cyber Security Architect,160000,USD,160000,US,100,US,L
@@ -655,34 +682,34 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,MI,FT,Information Security Analyst,84583,USD,84583,US,0,US,L
 2021,EN,FT,Security Analyst,70000,USD,70000,US,0,US,L
 2022,EN,FT,Penetration Tester,63000,USD,63000,US,50,US,L
-2022,SE,FT,Information Security Manager,57000,EUR,60356,NL,100,NL,L
+2022,SE,FT,Information Security Manager,57000,EUR,60093,NL,100,NL,L
 2021,MI,FT,Azure Security Engineer,56400,GBP,77576,GB,100,GB,L
-2022,SE,FT,IT Security Manager,950000,SEK,95418,SE,0,SE,L
+2022,SE,FT,IT Security Manager,950000,SEK,94769,SE,0,SE,L
 2022,EN,FT,IT Security Manager,110000,USD,110000,US,50,US,M
 2021,EN,FT,Cyber Security Analyst,53000,USD,53000,US,50,US,M
 2021,EN,FT,SOC Analyst,55000,USD,55000,US,50,US,S
 2021,SE,FT,Security Analyst,180000,USD,180000,US,100,US,L
 2022,SE,FT,Threat Hunting Lead,61000,USD,61000,HU,50,HU,L
-2022,MI,FT,Security Specialist,55000,GBP,68639,GB,50,GB,S
+2022,MI,FT,Security Specialist,55000,GBP,68237,GB,50,GB,S
 2021,MI,FT,Cyber Threat Analyst,84000,EUR,99292,DE,50,DE,L
 2022,MI,FT,Information Security Officer,2202,USD,2202,ET,0,ET,L
-2022,EN,FT,Information Security Specialist,70000,CAD,54437,CA,100,CA,L
+2022,EN,FT,Information Security Specialist,70000,CAD,54234,CA,100,CA,L
 2022,SE,FT,Information Security Specialist,106000,USD,106000,US,100,US,L
 2021,MI,FT,SOC Analyst,56000,GBP,77026,GB,100,GB,L
 2022,MI,FT,Cyber Security Engineer,98000,USD,98000,US,100,US,L
 2020,SE,FT,Cyber Threat Analyst,125000,USD,125000,US,50,US,L
-2022,SE,FT,Cyber Security Engineer,1500000,INR,19332,IN,0,IN,S
+2022,SE,FT,Cyber Security Engineer,1500000,INR,19268,IN,0,IN,S
 2021,SE,FT,Information Security Manager,50000,EUR,59102,IT,100,IT,S
 2022,MI,FT,Incident Response Analyst,160000,USD,160000,US,100,US,L
-2022,SE,FT,Security Analyst,467000,MXN,23061,MX,100,MX,L
-2022,EX,FT,Chief Information Security Officer,102500,EUR,108536,DE,100,DE,M
+2022,SE,FT,Security Analyst,467000,MXN,23074,MX,100,MX,L
+2022,EX,FT,Chief Information Security Officer,102500,EUR,108062,DE,100,DE,M
 2022,SE,FT,Penetration Testing Engineer,150000,USD,150000,US,100,US,M
 2022,EN,FT,IT Security Analyst,76000,USD,76000,US,50,US,L
-2022,SE,FT,Security Researcher,480000,ILS,144360,IL,50,IL,M
+2022,SE,FT,Security Researcher,480000,ILS,143843,IL,50,IL,M
 2021,EX,FT,Chief Information Security Officer,310000,USD,310000,US,50,US,L
-2022,MI,FT,Information Security Analyst,46000,GBP,57407,GB,100,GB,L
-2022,MI,FT,Cyber Security Specialist,65000,EUR,68827,NL,50,NL,L
-2022,MI,FT,Incident Response Analyst,155000,CAD,120539,CA,100,US,L
+2022,MI,FT,Information Security Analyst,46000,GBP,57071,GB,100,GB,L
+2022,MI,FT,Cyber Security Specialist,65000,EUR,68527,NL,50,NL,L
+2022,MI,FT,Incident Response Analyst,155000,CAD,120090,CA,100,US,L
 2021,MI,FT,Incident Response Manager,99980,USD,99980,US,100,US,L
 2021,MI,FT,Cyber Threat Analyst,145000,USD,145000,US,100,US,L
 2022,EN,FT,Cyber Security Specialist,79000,USD,79000,US,50,US,M
@@ -691,9 +718,9 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,MI,FT,Cyber Threat Intelligence Analyst,125000,USD,125000,US,100,US,M
 2022,SE,FT,Security Analyst,115000,USD,115000,US,100,US,L
 2021,SE,FT,Incident Response Lead,225000,USD,225000,US,100,US,L
-2022,SE,FT,Cyber Security Engineer,38000,EUR,40237,ES,100,ES,M
-2022,EN,FT,SOC Analyst,52000,CAD,40438,CA,100,CA,L
-2022,EX,FT,Chief Information Security Officer,250000,EUR,264722,IT,50,IT,L
+2022,SE,FT,Cyber Security Engineer,38000,EUR,40062,ES,100,ES,M
+2022,EN,FT,SOC Analyst,52000,CAD,40288,CA,100,CA,L
+2022,EX,FT,Chief Information Security Officer,250000,EUR,263567,IT,50,IT,L
 2022,EX,FT,Information Security Manager,153000,USD,153000,US,100,US,L
 2020,MI,FT,Incident Response Lead,38000,EUR,43338,IE,100,IE,L
 2022,SE,FT,Corporate Security Engineer,180000,USD,180000,US,100,US,M
@@ -702,21 +729,21 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Security Engineering Manager,20000,USD,20000,PK,0,PK,L
 2022,EN,FT,Cyber Security Analyst,65000,USD,65000,US,100,US,L
 2021,SE,FT,Penetration Tester,150000,USD,150000,CA,100,CA,S
-2022,SE,FT,Security Analyst,57000,GBP,71135,GB,100,GB,L
+2022,SE,FT,Security Analyst,57000,GBP,70718,GB,100,GB,L
 2021,SE,FT,Security Engineering Manager,305000,USD,305000,US,100,US,L
 2022,SE,FT,Security Researcher,500000,USD,500000,US,100,US,L
 2021,SE,FT,Information Systems Security Engineer,125000,USD,125000,US,100,US,L
-2022,EN,FT,Cyber Threat Intelligence Analyst,51000,GBP,63647,GB,50,GB,L
+2022,EN,FT,Cyber Threat Intelligence Analyst,51000,GBP,63274,GB,50,GB,L
 2021,SE,FT,Staff Security Engineer,140000,USD,140000,US,50,US,L
 2022,SE,FT,Information Security Architect,297000,USD,297000,US,50,US,L
 2021,MI,FT,Information Security Analyst,46560,USD,46560,US,100,US,L
 2022,SE,FT,Cyber Security Analyst,96000,USD,96000,US,100,US,L
 2022,SE,FT,Penetration Tester,130000,USD,130000,US,100,US,L
-2022,SE,FT,Information Security Manager,100000,GBP,124799,GB,100,NO,L
+2022,SE,FT,Information Security Manager,100000,GBP,124067,GB,100,NO,L
 2021,SE,FT,Security Engineering Manager,71500,GBP,98346,GB,100,NO,L
 2021,SE,CT,Cyber Security Specialist,260000,PLN,67307,PL,100,PL,S
-2022,EN,FT,Cyber Threat Intelligence Analyst,36500,EUR,38649,FR,50,FR,L
-2022,SE,FT,Security Researcher,82000,EUR,86828,DE,100,US,L
+2022,EN,FT,Cyber Threat Intelligence Analyst,36500,EUR,38480,FR,50,FR,L
+2022,SE,FT,Security Researcher,82000,EUR,86450,DE,100,US,L
 2022,SE,FT,Cyber Security Analyst,129000,USD,129000,US,100,US,L
 2022,SE,FT,Cyber Security Engineer,155000,USD,155000,US,100,US,L
 2021,SE,FT,Cyber Security Architect,125000,USD,125000,US,100,US,L
@@ -752,8 +779,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2021,EN,FT,SOC Analyst,32000,EUR,37825,PT,100,PT,L
 2022,MI,FT,Cloud Security Engineer,120000,USD,120000,US,100,US,L
 2022,EN,FT,Cyber Security Analyst,34000,USD,34000,US,100,US,L
-2022,EN,FT,Cloud Security Architect,67000,GBP,83615,NG,100,GB,M
-2022,SE,FT,Offensive Security Engineer,40000,GBP,49919,IE,100,GB,S
+2022,EN,FT,Cloud Security Architect,67000,GBP,83125,NG,100,GB,M
+2022,SE,FT,Offensive Security Engineer,40000,GBP,49627,IE,100,GB,S
 2022,MI,FT,Penetration Tester,165000,USD,165000,US,100,US,M
 2022,SE,FT,Cyber Security Engineer,173000,USD,173000,US,50,US,L
 2021,MI,FT,Cyber Security Engineer,109000,USD,109000,US,0,US,L
@@ -768,7 +795,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,MI,FT,Information Security Officer,61000,USD,61000,US,0,US,M
 2021,EN,FT,Information Security Analyst,70000,USD,70000,US,100,US,L
 2021,SE,FT,Information Security Architect,126000,USD,126000,US,50,US,L
-2022,SE,FT,Information Security Manager,67000,EUR,70945,DE,100,DE,L
+2022,SE,FT,Information Security Manager,67000,EUR,70636,DE,100,DE,L
 2021,EX,FT,Head of Security,145000,USD,145000,US,100,US,L
 2022,EN,FT,SOC Analyst,75000,USD,75000,US,100,US,L
 2022,MI,FT,Cyber Security Analyst,74900,USD,74900,US,0,US,L
@@ -778,8 +805,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2021,MI,FT,Security Researcher,45000,EUR,53192,PT,100,US,L
 2022,SE,FT,Information Security Manager,143000,USD,143000,US,50,US,L
 2022,SE,FT,Vulnerability Analyst,165000,USD,165000,US,100,US,L
-2022,MI,FT,Ethical Hacker,700000,NOK,73938,NO,50,NO,L
-2022,SE,FT,Information Security Manager,130000,EUR,137655,DE,100,DE,L
+2022,MI,FT,Ethical Hacker,700000,NOK,73467,NO,50,NO,L
+2022,SE,FT,Information Security Manager,130000,EUR,137055,DE,100,DE,L
 2021,MI,FT,Security Specialist,130000,USD,130000,US,100,US,L
 2021,SE,FT,Cyber Threat Intelligence Analyst,125000,USD,125000,US,100,US,L
 2022,SE,FT,Incident Response Lead,112000,USD,112000,US,50,US,L
@@ -789,20 +816,20 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,IT Security Manager,172000,USD,172000,US,100,US,L
 2022,SE,FT,Penetration Tester,118000,USD,118000,US,100,US,S
 2021,SE,FT,Cyber Security Engineer,130000,EUR,153667,NL,100,US,L
-2022,EX,FT,Chief Information Security Officer,300000,BRL,58392,BR,100,BR,L
+2022,EX,FT,Chief Information Security Officer,300000,BRL,58319,BR,100,BR,L
 2021,EN,FT,Cyber Security Analyst,50000,BRL,9268,BR,100,BR,L
 2021,MI,FT,Cyber Security Analyst,73300,USD,73300,US,0,US,L
 2022,MI,FT,Penetration Tester,143000,USD,143000,US,100,US,L
 2022,EX,FT,Threat Intelligence Response Analyst,300000,USD,300000,GB,100,RU,L
 2021,SE,FT,Penetration Tester,105000,USD,105000,US,100,US,S
-2022,SE,FT,Lead Security Engineer,200000,GBP,249598,GB,0,GB,L
+2022,SE,FT,Lead Security Engineer,200000,GBP,248135,GB,0,GB,L
 2022,MI,FT,Penetration Tester,42000,USD,42000,CZ,50,CZ,L
-2022,SE,FT,Incident Response Lead,500000000,IDR,34157,ID,100,ID,L
-2022,EN,FT,Information Security Engineer,41000,EUR,43414,FR,0,FR,L
+2022,SE,FT,Incident Response Lead,500000000,IDR,34054,ID,100,ID,L
+2022,EN,FT,Information Security Engineer,41000,EUR,43225,FR,0,FR,L
 2022,SE,FT,Cyber Security Engineer,105000,USD,105000,US,0,US,S
-2022,EX,FT,Head of Security,360000,BRL,70070,BR,100,BR,L
+2022,EX,FT,Head of Security,360000,BRL,69983,BR,100,BR,L
 2022,MI,FT,Security Engineer,130000,USD,130000,US,100,US,L
-2022,SE,FT,DevOps Security Engineer,180000,BRL,35035,BR,100,BR,L
+2022,SE,FT,DevOps Security Engineer,180000,BRL,34991,BR,100,BR,L
 2021,EN,FT,Penetration Tester,42000,EUR,49646,DE,50,DE,L
 2021,EN,FT,Cyber Security Analyst,40000,USD,40000,AE,100,AE,L
 2021,SE,FT,Information Security Architect,100000,EUR,118205,IE,100,IE,L
@@ -812,11 +839,11 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,EN,FT,Threat Intelligence Analyst,85000,USD,85000,US,100,US,L
 2022,SE,FT,Cyber Threat Intelligence Analyst,181000,USD,181000,US,100,US,L
 2022,SE,FT,Incident Response Lead,224000,USD,224000,US,100,US,L
-2022,SE,FT,Information Security Architect,286000,BRL,55667,BR,100,US,L
-2022,SE,FT,Cyber Security Analyst,180000,BRL,35035,BR,100,BR,L
+2022,SE,FT,Information Security Architect,286000,BRL,55597,BR,100,US,L
+2022,SE,FT,Cyber Security Analyst,180000,BRL,34991,BR,100,BR,L
 2022,EX,FT,Head of Security,220000,USD,220000,US,100,US,L
-2022,SE,FT,Information Security Manager,174000,BRL,33867,BR,100,BR,L
-2022,SE,FT,DevOps Security Engineer,120000,CAD,93320,CA,100,CA,L
+2022,SE,FT,Information Security Manager,174000,BRL,33825,BR,100,BR,L
+2022,SE,FT,DevOps Security Engineer,120000,CAD,92973,CA,100,CA,L
 2021,SE,FT,Security Specialist,211000,USD,211000,US,100,US,L
 2022,SE,FT,Cloud Security Architect,110000,USD,110000,US,100,US,L
 2022,MI,FT,Cyber Threat Intelligence Analyst,200000,USD,200000,US,100,US,L
@@ -827,7 +854,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Incident Response Lead,249000,USD,249000,US,100,US,L
 2022,SE,FT,IT Security Manager,140000,USD,140000,US,100,US,L
 2022,SE,CT,Detection Engineer,135000,USD,135000,US,50,US,L
-2022,EN,FT,Threat Intelligence Analyst,104000,AUD,73230,AU,100,AU,L
+2022,EN,FT,Threat Intelligence Analyst,104000,AUD,72769,AU,100,AU,L
 2021,MI,FT,Information Security Specialist,100000,USD,100000,US,50,US,L
 2021,SE,FT,Network Security Engineer,102000,USD,102000,US,50,US,L
 2022,MI,FT,Information Security Analyst,60000,USD,60000,US,100,US,M
@@ -849,7 +876,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2021,MI,FT,Security Engineer,130000,USD,130000,US,100,US,L
 2022,SE,FT,IT Security Engineer,150000,USD,150000,US,100,US,L
 2022,EX,FT,Head of Security,200000,USD,200000,US,100,US,L
-2022,MI,FT,Cyber Security Engineer,130000,CAD,101097,CA,100,US,L
+2022,MI,FT,Cyber Security Engineer,130000,CAD,100721,CA,100,US,L
 2021,MI,FT,IT Security Analyst,76000,USD,76000,US,100,US,L
 2022,MI,FT,Cyber Threat Analyst,88000,USD,88000,US,100,US,L
 2021,EN,FT,Security Analyst,50000,USD,50000,US,100,US,S
@@ -864,8 +891,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Information Security Manager,310000,USD,310000,US,100,US,L
 2022,EN,FT,Cyber Security Analyst,55000,USD,55000,US,0,US,L
 2021,SE,FT,IT Security Manager,138000,USD,138000,US,100,US,L
-2022,SE,FT,IT Security Manager,182000,CAD,141536,CA,0,CA,L
-2022,SE,FT,IT Security Manager,130000,CAD,101097,CA,0,CA,L
+2022,SE,FT,IT Security Manager,182000,CAD,141009,CA,0,CA,L
+2022,SE,FT,IT Security Manager,130000,CAD,100721,CA,0,CA,L
 2021,MI,FT,Cyber Security Specialist,54000,EUR,63831,EE,50,EE,M
 2020,MI,CT,Chief Information Security Officer,150000,AUD,103310,AU,0,AU,M
 2021,EN,FT,Cyber Security Analyst,60000,USD,60000,US,50,US,L
@@ -876,13 +903,13 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2021,MI,FT,Information Security Specialist,68900,USD,68900,US,100,US,L
 2021,MI,FT,IT Security Manager,116000,USD,116000,US,0,US,S
 2022,EN,FT,Cyber Threat Analyst,99000,USD,99000,CA,100,CA,L
-2022,MI,FT,Cyber Security Analyst,80000,EUR,84711,IE,100,IE,L
+2022,MI,FT,Cyber Security Analyst,80000,EUR,84341,IE,100,IE,L
 2021,MI,FT,Cyber Security Analyst,60000,CAD,47857,CA,50,CA,L
 2022,EN,FT,Information Systems Security Engineer,44000,USD,44000,SG,0,SG,L
 2022,EN,FT,Cyber Security Analyst,52000,USD,52000,US,50,US,S
 2021,MI,FT,IT Security Analyst,115500,USD,115500,US,100,US,L
-2022,MI,FT,Information Security Specialist,100000,CAD,77767,CA,100,CA,L
-2022,MI,FT,Information Security Specialist,100000,AUD,70413,CA,100,CA,L
+2022,MI,FT,Information Security Specialist,100000,CAD,77477,CA,100,CA,L
+2022,MI,FT,Information Security Specialist,100000,AUD,69970,CA,100,CA,L
 2021,SE,FT,Information Security Engineer,104000,USD,104000,US,100,US,L
 2020,MI,FT,Cyber Security Analyst,65000,EUR,74130,DE,100,DE,L
 2022,EN,FT,Network and Security Engineer,70000,USD,70000,IN,0,US,L
