@@ -13,4 +13,4 @@ For a description of the fields/values contained in the dataset see https://info
 The data is published in the public domain under CC0. Read the full legal code [here](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
 
 In short this means:
-You can copy, modify and distribute the work, even for commercial purposes, all without asking permission - though attribution is appreciated! You can just link back to [infosec-jobs.com/salaries](https://salaries.infosec-jobs.com/salaries/) and help us collect even more data :).
+You can copy, modify and distribute the work, even for commercial purposes, all without asking permission - though attribution is appreciated! You can just link back to [infosec-jobs.com/salaries](https://infosec-jobs.com/salaries/) and help us collect even more data :).
