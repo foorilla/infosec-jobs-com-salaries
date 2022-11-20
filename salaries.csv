@@ -1,4 +1,28 @@
 work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
+2022,EN,FT,Information Security Analyst,91200,USD,91200,US,100,US,L
+2022,MI,FT,Security Analyst,85000,USD,85000,US,100,US,M
+2022,MI,FT,Security Analyst,75000,USD,75000,US,100,US,M
+2022,SE,FT,Security Engineer,183000,USD,183000,US,100,US,M
+2022,SE,FT,Security Engineer,141000,USD,141000,US,100,US,M
+2022,MI,FT,Security Engineer,116000,USD,116000,US,0,US,M
+2022,MI,FT,Security Engineer,90000,USD,90000,US,0,US,M
+2022,MI,FT,Compliance Analyst,83000,USD,83000,US,100,US,M
+2022,MI,FT,Compliance Analyst,66000,USD,66000,US,100,US,M
+2022,SE,FT,Information Security Lead,204500,USD,204500,US,0,US,M
+2022,SE,FT,Information Security Lead,142200,USD,142200,US,0,US,M
+2022,SE,FT,Security Analyst,250000,USD,250000,US,100,US,M
+2022,SE,FT,Security Analyst,180000,USD,180000,US,100,US,M
+2022,SE,FT,Security Engineer,177300,USD,177300,US,100,US,M
+2022,SE,FT,Security Engineer,136300,USD,136300,US,100,US,M
+2022,SE,FT,Security Engineer,200400,USD,200400,US,100,US,M
+2022,SE,FT,Security Engineer,172100,USD,172100,US,100,US,M
+2022,MI,FT,Compliance Analyst,100000,USD,100000,US,100,US,M
+2022,MI,FT,Compliance Analyst,90000,USD,90000,US,100,US,M
+2022,SE,FT,Security Engineer,200400,USD,200400,US,100,US,M
+2022,SE,FT,Security Engineer,172100,USD,172100,US,100,US,M
+2022,MI,FT,Network and Security Engineer,44000,EUR,46271,ES,0,ES,M
+2022,MI,FT,Cyber Security Analyst,50000,EUR,52580,ES,100,ES,S
+2022,MI,FT,Cyber Security Consultant,59500,EUR,62571,FR,100,FR,L
 2022,SE,FT,Incident Response Analyst,80000,USD,80000,US,100,US,M
 2022,SE,FT,Incident Response Analyst,65000,USD,65000,US,100,US,M
 2022,SE,FT,Chief Information Security Officer,65000,GBP,80373,GB,50,GB,M
