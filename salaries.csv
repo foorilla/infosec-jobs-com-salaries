@@ -1,4 +1,45 @@
 work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
+2022,SE,FT,Security Analyst,105000,USD,105000,US,100,US,L
+2022,MI,FT,Compliance Analyst,120000,USD,120000,US,0,US,M
+2022,MI,FT,Compliance Analyst,80000,USD,80000,US,0,US,M
+2022,SE,FT,Security Engineer,146000,USD,146000,CA,100,CA,M
+2022,SE,FT,Security Engineer,97000,USD,97000,CA,100,CA,M
+2022,EX,FT,Privacy Manager,165000,USD,165000,US,0,US,M
+2022,EX,FT,Privacy Manager,143000,USD,143000,US,0,US,M
+2022,MI,FT,DevSecOps Engineer,152000,USD,152000,US,0,US,M
+2022,MI,FT,DevSecOps Engineer,91000,USD,91000,US,0,US,M
+2022,SE,FT,Security Engineer,261201,USD,261201,US,100,US,M
+2022,SE,FT,Security Engineer,179520,USD,179520,US,100,US,M
+2022,SE,FT,Detection Engineer,240000,USD,240000,US,0,US,M
+2022,SE,FT,Detection Engineer,187000,USD,187000,US,0,US,M
+2022,SE,FT,Privacy Manager,124000,USD,124000,US,100,US,M
+2022,SE,FT,Privacy Manager,100000,USD,100000,US,100,US,M
+2022,SE,FT,Security Analyst,215000,USD,215000,US,0,US,M
+2022,SE,FT,Security Analyst,89000,USD,89000,US,0,US,M
+2022,SE,FT,Security Engineer,240000,USD,240000,US,100,US,M
+2022,SE,FT,Security Engineer,187000,USD,187000,US,100,US,M
+2022,SE,FT,Information Systems Security Officer,168400,USD,168400,US,0,US,M
+2022,SE,FT,Information Systems Security Officer,105200,USD,105200,US,0,US,M
+2022,SE,FT,DevSecOps Engineer,150000,USD,150000,US,0,US,M
+2022,SE,FT,DevSecOps Engineer,100000,USD,100000,US,0,US,M
+2022,SE,FT,Security Engineer,204500,USD,204500,US,0,US,M
+2022,SE,FT,Security Engineer,142200,USD,142200,US,0,US,M
+2022,MI,FT,Cyber Security Consultant,43000,GBP,53032,IN,100,GB,M
+2022,MI,FT,Security Engineer,190000,USD,190000,US,0,US,M
+2022,MI,FT,Security Engineer,140000,USD,140000,US,0,US,M
+2022,MI,FT,Security Engineer,210000,USD,210000,US,0,US,M
+2022,MI,FT,Security Engineer,150000,USD,150000,US,0,US,M
+2022,MI,FT,Information Systems Security Officer,94000,USD,94000,US,0,US,M
+2022,MI,FT,Information Systems Security Officer,59000,USD,59000,US,0,US,M
+2022,SE,FT,DevSecOps Engineer,176000,USD,176000,US,0,US,M
+2022,SE,FT,DevSecOps Engineer,119700,USD,119700,US,0,US,M
+2022,SE,FT,Security Engineer,155000,USD,155000,US,100,US,M
+2022,SE,FT,Security Engineer,135000,USD,135000,US,100,US,M
+2022,SE,FT,Security Engineer,204500,USD,204500,US,0,US,M
+2022,SE,FT,Security Engineer,142200,USD,142200,US,0,US,M
+2022,MI,FT,Security Officer,120000,USD,120000,US,0,US,M
+2022,MI,FT,Security Officer,87000,USD,87000,US,0,US,M
+2022,MI,FT,DevSecOps Engineer,100000,EUR,105024,DE,100,DE,L
 2022,SE,FT,Staff Security Engineer,450000,USD,450000,US,50,US,L
 2022,MI,FT,Application Security Engineer,18000,USD,18000,IN,50,IN,L
 2022,SE,FT,Penetration Testing Engineer,40000,EUR,42009,ES,100,ES,L
