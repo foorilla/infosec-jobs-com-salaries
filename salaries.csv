@@ -1,4 +1,20 @@
 work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
+2023,SE,FT,Security Solutions Architect,205150,USD,205150,US,0,US,M
+2023,SE,FT,Security Solutions Architect,126800,USD,126800,US,0,US,M
+2023,SE,FT,DevSecOps Engineer,216500,USD,216500,US,0,US,M
+2023,SE,FT,DevSecOps Engineer,133800,USD,133800,US,0,US,M
+2023,SE,FT,Security Engineer,250000,USD,250000,US,100,US,M
+2023,SE,FT,Security Engineer,180000,USD,180000,US,100,US,M
+2023,SE,FT,Security Engineer,279500,USD,279500,US,0,US,M
+2023,SE,FT,Security Engineer,172800,USD,172800,US,0,US,M
+2023,SE,FT,Security Engineer,247500,USD,247500,US,0,US,M
+2023,SE,FT,Security Engineer,153000,USD,153000,US,0,US,M
+2023,SE,FT,Security Engineer,116000,USD,116000,US,0,US,M
+2023,SE,FT,Security Engineer,90000,USD,90000,US,0,US,M
+2023,MI,FT,Compliance Analyst,215000,USD,215000,US,0,US,M
+2023,MI,FT,Compliance Analyst,129000,USD,129000,US,0,US,M
+2023,SE,FT,DevSecOps Engineer,150000,USD,150000,US,0,US,M
+2023,SE,FT,DevSecOps Engineer,100000,USD,100000,US,0,US,M
 2022,SE,FT,Information Security Engineer,20000,EUR,21006,HR,50,HR,M
 2022,EN,FT,Cyber Security Analyst,72000,USD,72000,US,50,US,L
 2022,SE,FT,Security Incident Response Engineer,240000,USD,240000,US,100,US,L
