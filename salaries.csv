@@ -1,4 +1,56 @@
 work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
+2023,SE,FT,Security Analyst,120350,USD,120350,US,0,US,M
+2023,SE,FT,Security Analyst,74400,USD,74400,US,0,US,M
+2023,EN,FT,Security Engineer,130000,USD,130000,US,0,US,M
+2023,EN,FT,Security Engineer,100000,USD,100000,US,0,US,M
+2023,SE,FT,Cyber Security Engineer,60000,EUR,64547,ES,100,US,L
+2023,EX,FT,Information Security Officer,240000,USD,240000,US,0,US,L
+2023,EX,FT,Information Security Officer,192600,USD,192600,US,0,US,L
+2023,SE,FT,Security Engineer,272300,USD,272300,US,0,US,M
+2023,SE,FT,Security Engineer,189400,USD,189400,US,0,US,M
+2023,SE,FT,Security Engineer,235400,USD,235400,US,100,US,M
+2023,SE,FT,Security Engineer,160080,USD,160080,US,100,US,M
+2023,SE,FT,Security Engineer,170000,USD,170000,US,0,US,M
+2023,SE,FT,Security Engineer,120000,USD,120000,US,0,US,M
+2023,SE,FT,Security Engineer,240000,USD,240000,US,100,US,M
+2023,SE,FT,Security Engineer,200000,USD,200000,US,100,US,M
+2023,SE,FT,Security Compliance Manager,185900,USD,185900,US,100,US,M
+2023,SE,FT,Security Compliance Manager,129300,USD,129300,US,100,US,M
+2023,SE,FT,Threat Hunter,145000,USD,145000,US,0,US,M
+2023,SE,FT,Threat Hunter,113000,USD,113000,US,0,US,M
+2023,EN,FT,SOC Analyst,29250,GBP,35688,GB,100,GB,S
+2023,SE,FT,DevSecOps Engineer,150000,USD,150000,US,0,US,M
+2023,SE,FT,DevSecOps Engineer,100000,USD,100000,US,0,US,M
+2023,EX,FT,Information Security Officer,370000,USD,370000,US,100,US,M
+2023,EX,FT,Information Security Officer,249000,USD,249000,US,100,US,M
+2023,SE,FT,Security Engineer,263600,USD,263600,US,100,US,M
+2023,SE,FT,Security Engineer,194000,USD,194000,US,100,US,M
+2023,SE,FT,Security Engineer,204500,USD,204500,US,0,US,M
+2023,SE,FT,Security Engineer,142200,USD,142200,US,0,US,M
+2023,SE,FT,Security Engineer,201000,USD,201000,US,0,US,M
+2023,SE,FT,Security Engineer,143000,USD,143000,US,0,US,M
+2022,SE,FT,Penetration Tester,280000,USD,280000,US,100,US,L
+2023,MI,FT,Information Systems Security Officer,110000,USD,110000,US,0,US,L
+2023,MI,FT,Cyber Security Analyst,110640,USD,110640,US,50,US,L
+2023,SE,FT,Security Engineer,272300,USD,272300,US,0,US,M
+2023,SE,FT,Security Engineer,189400,USD,189400,US,0,US,M
+2023,SE,FT,Security Consultant,220000,USD,220000,US,0,US,M
+2023,SE,FT,Security Consultant,200000,USD,200000,US,0,US,M
+2023,SE,FT,Security Engineer,168000,USD,168000,US,0,US,M
+2023,SE,FT,Security Engineer,120000,USD,120000,US,0,US,M
+2023,SE,FT,Security Engineer,250830,USD,250830,US,0,US,M
+2023,SE,FT,Security Engineer,143370,USD,143370,US,0,US,M
+2023,SE,FT,Security Engineer,170000,USD,170000,US,0,US,M
+2023,SE,FT,Security Engineer,140000,USD,140000,US,0,US,M
+2023,MI,FT,IT Security Manager,130000,USD,130000,US,100,US,M
+2022,SE,FT,Infrastructure Security Engineer,67000,GBP,82499,GB,100,US,L
+2023,SE,FT,Security Engineer,201000,USD,201000,US,0,US,M
+2023,SE,FT,Security Engineer,143000,USD,143000,US,0,US,M
+2023,SE,FT,Cloud Security Architect,210000,USD,210000,US,100,US,M
+2023,SE,FT,Cloud Security Architect,170000,USD,170000,US,100,US,M
+2023,SE,FT,Security Engineer,163000,USD,163000,US,100,US,M
+2023,SE,FT,Security Engineer,94000,USD,94000,US,100,US,M
+2023,EN,FT,Cyber Security Analyst,80000,USD,80000,US,100,US,M
 2023,SE,FT,Security Researcher,165000,USD,165000,US,0,US,M
 2023,SE,FT,Security Researcher,107250,USD,107250,US,0,US,M
 2023,SE,FT,Security Engineer,186800,USD,186800,US,0,US,M
@@ -7,7 +59,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,SE,FT,Security Engineer,142200,USD,142200,US,0,US,M
 2023,EX,FT,Security Engineer,250000,USD,250000,US,0,US,M
 2023,EX,FT,Security Engineer,180000,USD,180000,US,0,US,M
-2023,EN,FT,Application Security Analyst,12000,EUR,12884,CK,0,ES,S
+2023,EN,FT,Application Security Analyst,12000,EUR,12909,CK,0,ES,S
 2023,SE,FT,Security Analyst,120350,USD,120350,US,0,US,M
 2023,SE,FT,Security Analyst,74400,USD,74400,US,0,US,M
 2023,SE,FT,Security Engineer,147100,USD,147100,US,0,US,M
@@ -16,7 +68,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,SE,FT,Security Engineer,177100,USD,177100,US,0,US,M
 2023,MI,FT,Security Analyst,85000,USD,85000,US,0,US,M
 2023,MI,FT,Security Analyst,70000,USD,70000,US,0,US,M
-2023,EN,FT,Cloud Security Engineer,2600000,INR,31735,IN,0,IN,L
+2023,EN,FT,Cloud Security Engineer,2600000,INR,31763,IN,0,IN,L
 2023,SE,FT,Cyber Security Analyst,152000,USD,152000,US,50,US,L
 2023,SE,FT,Cyber Security Architect,210800,USD,210800,US,0,US,M
 2023,SE,FT,Cyber Security Architect,137000,USD,137000,US,0,US,M
@@ -80,8 +132,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,MI,FT,DevSecOps Engineer,135000,USD,135000,US,100,US,M
 2023,SE,FT,Security Engineer,200000,USD,200000,US,0,US,M
 2023,SE,FT,Security Engineer,180000,USD,180000,US,0,US,M
-2023,MI,FT,Application Security Engineer,24000,GBP,29193,IN,100,GR,M
-2023,MI,FT,Application Security Engineer,24000,GBP,29193,IN,100,US,S
+2023,MI,FT,Application Security Engineer,24000,GBP,29282,IN,100,GR,M
+2023,MI,FT,Application Security Engineer,24000,GBP,29282,IN,100,US,S
 2023,SE,FT,Security Engineer,278700,USD,278700,US,0,US,M
 2023,SE,FT,Security Engineer,159300,USD,159300,US,0,US,M
 2022,MI,FT,Cyber Security Consultant,29400,EUR,30889,GR,50,GR,M
@@ -89,7 +141,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,SE,FT,Security Architect,70000,USD,70000,AU,0,AU,M
 2023,SE,FT,Security Engineer,200000,USD,200000,US,0,US,M
 2023,SE,FT,Security Engineer,180000,USD,180000,US,0,US,M
-2023,MI,FT,Cyber Security Analyst,93600,CHF,101081,CH,0,CH,S
+2023,MI,FT,Cyber Security Analyst,93600,CHF,101184,CH,0,CH,S
 2023,SE,FT,DevSecOps Engineer,150000,USD,150000,US,0,US,M
 2023,SE,FT,DevSecOps Engineer,100000,USD,100000,US,0,US,M
 2023,SE,FT,Security Engineer,209880,USD,209880,US,0,US,M
@@ -103,8 +155,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,MI,FT,Security Engineer,80000,USD,80000,US,0,US,M
 2023,EX,FT,Security Architect,230000,USD,230000,US,0,US,M
 2023,EX,FT,Security Architect,190000,USD,190000,US,0,US,M
-2023,SE,FT,Security Consultant,90000,GBP,109474,GB,100,GB,M
-2023,SE,FT,Security Consultant,70000,GBP,85146,GB,100,GB,M
+2023,SE,FT,Security Consultant,90000,GBP,109810,GB,100,GB,M
+2023,SE,FT,Security Consultant,70000,GBP,85408,GB,100,GB,M
 2023,SE,FT,Security Engineer,250830,USD,250830,US,0,US,M
 2023,SE,FT,Security Engineer,143370,USD,143370,US,0,US,M
 2023,SE,FT,Security Engineer,147000,USD,147000,US,100,US,M
@@ -146,7 +198,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,SE,FT,DevSecOps Engineer,133800,USD,133800,US,0,US,M
 2023,SE,FT,Security Analyst,140000,USD,140000,US,0,US,M
 2023,SE,FT,Security Analyst,86000,USD,86000,US,0,US,M
-2023,SE,CT,Penetration Testing Engineer,156000,EUR,167492,IE,100,IE,S
+2023,SE,CT,Penetration Testing Engineer,156000,EUR,167822,IE,100,IE,S
 2023,SE,FT,DevSecOps Engineer,150000,USD,150000,US,0,US,M
 2023,SE,FT,DevSecOps Engineer,100000,USD,100000,US,0,US,M
 2023,SE,FT,Security Analyst,130000,USD,130000,US,0,US,M
@@ -189,8 +241,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,MI,FT,Security Analyst,111700,USD,111700,US,0,US,M
 2023,SE,FT,Security Engineer,170000,USD,170000,US,0,US,M
 2023,SE,FT,Security Engineer,120000,USD,120000,US,0,US,M
-2023,MI,FT,Security Consultant,65000,GBP,79064,GB,0,GB,M
-2023,MI,FT,Security Consultant,50000,GBP,60818,GB,0,GB,M
+2023,MI,FT,Security Consultant,65000,GBP,79307,GB,0,GB,M
+2023,MI,FT,Security Consultant,50000,GBP,61005,GB,0,GB,M
 2023,SE,FT,Security Engineer,175000,USD,175000,US,0,US,M
 2023,SE,FT,Security Engineer,130000,USD,130000,US,0,US,M
 2023,MI,FT,Compliance Analyst,92000,USD,92000,US,0,US,M
