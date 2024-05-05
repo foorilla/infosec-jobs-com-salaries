@@ -1,4 +1,34 @@
 work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
+2024,MI,FT,Security Engineer,179000,USD,179000,US,0,US,M
+2024,MI,FT,Security Engineer,112000,USD,112000,US,0,US,M
+2024,SE,FT,Security Engineer,190100,USD,190100,US,100,US,M
+2024,SE,FT,Security Engineer,67600,USD,67600,US,100,US,M
+2024,SE,FT,Information System Security Manager,221000,USD,221000,US,0,US,M
+2024,SE,FT,Information System Security Manager,105000,USD,105000,US,0,US,M
+2024,SE,FT,Security Specialist,138000,USD,138000,US,0,US,M
+2024,SE,FT,Security Specialist,86000,USD,86000,US,0,US,M
+2024,MI,FT,Cyber Security Manager,170000,USD,170000,US,100,US,M
+2024,MI,FT,Cyber Security Manager,157768,USD,157768,US,100,US,M
+2024,SE,FT,Security Researcher,185000,USD,185000,CA,100,CA,M
+2024,SE,FT,Security Researcher,155000,USD,155000,CA,100,CA,M
+2024,MI,FT,Cyber Security Project Manager,321300,USD,321300,US,0,US,M
+2024,MI,FT,Cyber Security Project Manager,77800,USD,77800,US,0,US,M
+2024,SE,FT,Security Analyst,178250,USD,178250,US,0,US,M
+2024,SE,FT,Security Analyst,131750,USD,131750,US,0,US,M
+2024,SE,FT,Security Engineer,251000,USD,251000,US,0,US,M
+2024,SE,FT,Security Engineer,177000,USD,177000,US,0,US,M
+2024,MI,FT,Security Engineer,173000,USD,173000,US,0,US,M
+2024,MI,FT,Security Engineer,105000,USD,105000,US,0,US,M
+2024,SE,FT,Information System Security Manager,217500,USD,217500,US,0,US,M
+2024,SE,FT,Information System Security Manager,174000,USD,174000,US,0,US,M
+2024,MI,FT,Security Operations Engineer,198600,USD,198600,US,0,US,M
+2024,MI,FT,Security Operations Engineer,94300,USD,94300,US,0,US,M
+2024,MI,FT,Security Analyst,196000,USD,196000,US,0,US,M
+2024,MI,FT,Security Analyst,137000,USD,137000,US,0,US,M
+2024,SE,FT,Security Engineer,251000,USD,251000,US,0,US,M
+2024,SE,FT,Security Engineer,177000,USD,177000,US,0,US,M
+2024,MI,FT,Security Engineer,240240,USD,240240,US,100,US,M
+2024,MI,FT,Security Engineer,196172,USD,196172,US,100,US,M
 2024,SE,FT,Cyber Systems Engineer,304000,USD,304000,US,0,US,M
 2024,SE,FT,Cyber Systems Engineer,190000,USD,190000,US,0,US,M
 2024,SE,FT,Security Architect,209169,USD,209169,US,0,US,M
