@@ -1,4 +1,4 @@
-# infosec-jobs-com-salaries
+# aijobs.net Global AI, ML, Data Science Salary Index
 
 ## A dataset of global salaries in InfoSec/Cybersecurity
 
