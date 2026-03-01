@@ -1,8 +1,8 @@
 # isecjobs.com Global InfoSec / Cybersecurity Salary Index
 
-## A dataset of global salaries in InfoSec/Cybersecurity
+## A dataset of global salaries in InfoSec/Cybersecurity (2021 - 2025)
 
-This repository is a weekly snapshot of all the InfoSec/Cybersecurity salary data obtained anonymously through the survey at [isecjobs.com/salaries](https://isecjobs.com/salaries/) (formerly infosec-jobs.com).
+This repository is a weekly snapshot of all the InfoSec/Cybersecurity salary data obtained anonymously through the survey at [isecjobs.com/salaries](https://isecjobs.com/salaries/) (formerly infosec-jobs.com) from 2021 to 2025. UPDATE: You can find recent salary data aggregated from global tech job listings at [foorilla.com/api/](https://foorilla.com/api/).
 
 The primary goal is to have data that can provide better guidance in regards to what's being paid globally. So newbies, experienced pros, hiring managers, recruiters and also startup founders or people wanting to make a career switch can make better informed decisions.
 
